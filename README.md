@@ -1,4 +1,4 @@
-# 📧 Simple Email Service (v2) module
+# 📧 Simple Email Service (v2) module 📧
 
 * All usage examples are in the root `examples` folder. ***Keep in mind they show implementation with `Terragrunt`.***
 
